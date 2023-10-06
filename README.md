@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lunamiya
+- 👋 Hi, I’m @lunasiagian
 - 👀 I’m interested in data analytics, game analytics and the intersection between the human language and programming
 - 🌱 I’m currently learning NLP and game analytics 
 - 💞️ I’m looking to collaborate on data analysis, using Python, SQL, Tableau and Power BI
